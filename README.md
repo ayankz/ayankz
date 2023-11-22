@@ -1,18 +1,18 @@
 ### Hi there 👋 This is Ayan
 Passionate about pixels and code, I'm on a mission to craft exceptional digital experiences. 
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 - **Frameworks/Libraries:** React.js, Angular.js
 - **Platform:** Node.js
 - **Styling:** Sass, Styled Components
 - **Version Control:** Git, GitHub, Gitlab, Bitbucked
 
-## 🎮 Hobby
+### 🎮 Hobby
 - **Languages for game industry:** Lua
 - **Game Development Tools:** Phaser.js, HTML5
 - 
-## 🌐 Let's Connect
+### 🌐 Let's Connect
 - **Portfolio:**
 Feel free to reach out for collaboration, discussions about the latest tech trends, or just to share your favorite games and game development experiences. Let's build something amazing together! 🚀
 
