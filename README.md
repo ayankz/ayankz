@@ -9,10 +9,12 @@ Passionate about pixels and code, I'm on a mission to craft exceptional digital 
 - **Version Control:** Git, GitHub, Gitlab, Bitbucked
 
 ### 🎮 Hobby
-- **Languages for game industry:** Lua
+- **Languages for the game industry:** Lua
 - **Game Development Tools:** Phaser.js, HTML5
-- 
+
 ### 🌐 Let's Connect
+<!--
 - **Portfolio:**
+-->
 Feel free to reach out for collaboration, discussions about the latest tech trends, or just to share your favorite games and game development experiences. Let's build something amazing together! 🚀
 
