@@ -3,7 +3,7 @@ Passionate about pixels and code, I'm on a mission to craft exceptional digital 
 
 ### 💻 Tech Stack
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** React.js, Angular.js
+- **Frameworks/Libraries:** React.js, Angular.js and Vue.js
 - **Platform:** Node.js
 - **Styling:** Sass, Styled Components
 - **Version Control:** Git, GitHub, Gitlab, Bitbucked
